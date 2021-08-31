@@ -1,0 +1,24 @@
+{
+  "Title": "Sample Story",
+  "Chapter": "Sample Chapter 1",
+  "Writer": "Akira?",
+  "Translator": "Anon",
+  "script": [
+      {
+      "speaker": "Hokuto",
+      "text": "Look here, everyone. It's a crab."
+    },
+    {
+      "speaker": "Souma",
+      "text": "Sir bible gay?"
+    },
+	{
+      "speaker": "Eichi",
+      "text": "It's almost Christmas, Keito."
+    },
+	{
+      "speaker": "Keito",
+      "text": "So what, Eichi."
+    }
+	]
+}

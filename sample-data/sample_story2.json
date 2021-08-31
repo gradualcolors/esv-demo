@@ -1,0 +1,24 @@
+{
+  "Title": "Sample Story",
+  "Chapter": "Sample Chapter 2",
+  "Writer": "Kinosei?",
+  "Translator": "Anon",
+  "script": [
+      {
+      "speaker": "Kanata",
+      "text": "Kaoru... are you <em>really</em> sexy?"
+    },
+    {
+      "speaker": "Kaoru",
+      "text": "Shut up! Jeez! You're so annoying.<br/> Stop questioning my mullet!"
+    },
+	{
+      "speaker": "Izumi",
+      "text": "<strong>Yuu-kun~</strong>"
+    },
+	{
+      "speaker": "Makoto",
+      "text": "HELP. Why are you bold, Izumi-san? I'm scared!"
+    }
+	]
+}
