@@ -5,21 +5,38 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <title>ES-Story-Viewer-Demo</title>
+    <!-- <base href="/" />-->
     <base href="/esv-demo/" />
     <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/bootstrap/all.css" rel="stylesheet" />
     <link href="css/app.css" rel="stylesheet" />
+    <link href="_content/Blazorise/blazorise.css" rel="stylesheet" />
+    <link href="_content/Blazorise.Bootstrap/blazorise.bootstrap.css" rel="stylesheet" />
+
     <link href="ES-Story-Viewer-Demo.styles.css" rel="stylesheet" />
+
+
 </head>
 
 <body>
     <div id="app">Loading...</div>
+
 
     <div id="blazor-error-ui">
         An unhandled error has occurred.
         <a href="" class="reload">Reload</a>
         <a class="dismiss">🗙</a>
     </div>
+    <!-- inside of body section and after the div/app tag  -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" crossorigin="anonymous"></script>
+    <script src="js/bootstrap/bootstrap.min.js" crossorigin="anonymous"></script>
+    <script src="js/anchorScroll.js" type="text/javascript"></script>
+
+    <script src="_content/Blazorise/blazorise.js"></script>
+    <script src="_content/Blazorise.Bootstrap/blazorise.bootstrap.js"></script>
     <script src="_framework/blazor.webassembly.js"></script>
+
 </body>
 
 </html>

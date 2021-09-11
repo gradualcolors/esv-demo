@@ -48,3 +48,19 @@ a, .btn-link {
         right: 0.75rem;
         top: 0.5rem;
     }
+
+@keyframes highlight {
+    0% {
+        background: lightyellow;
+    }
+    100%
+    {
+        background: none;
+    }
+
+}
+
+.highlight {
+    animation: highlight 3s;
+}
+

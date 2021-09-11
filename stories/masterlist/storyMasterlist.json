@@ -1,0 +1,20 @@
+[
+     {
+      "StoryTitle": "Story 1",
+      "fileName": "sample_story_xenc.json",
+	  "folder": "sample",
+	  "numChap": 1
+    },
+    {
+      "StoryTitle": "Story 2",
+      "fileName": "sample_story_xenc2.json",
+	  "folder": "sample",
+	 "numChap": 1
+    },
+    {
+      "StoryTitle": "Dollhouse",
+      "fileName": "Dollhouse_list_xd.json",
+	  "folder": "dh",
+	  "numChap": 2
+    }
+]
