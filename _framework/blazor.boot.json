@@ -198,11 +198,11 @@
       "mscorlib.dll": "sha256-Fi+LybwHL\/VGD\/09OxxtYlT6exn9xVU+LdojZ9juR2c=",
       "netstandard.dll": "sha256-P8xX0ad1hKyWWbBxiXl3cYokFlDiuXwp3pqoYatH0kk=",
       "System.Private.CoreLib.dll": "sha256-2km83sNUTrumGJYdDzsN8RnJqv00vKWLCCh0UGajTB4=",
-      "ES-Story-Viewer-Demo.dll": "sha256-slSA\/\/QHMt7dbPSRbKsc23kcEXQNwOmjhXAlHTit6r0="
+      "ES-Story-Viewer-Demo.dll": "sha256-rehKppl+GktlNeJ91lywYZBji+6qLUwFohPAWvHy\/Ls="
     },
     "lazyAssembly": null,
     "pdb": {
-      "ES-Story-Viewer-Demo.pdb": "sha256-4aIicX9n+Ls4PEt1nD0fovHBvkvGhzdNDOoOqMhgd4U="
+      "ES-Story-Viewer-Demo.pdb": "sha256-sC0hs6DKMzQraifUxgOY\/FAI8N2i3F+JCWCADvDtGO4="
     },
     "runtime": {
       "dotnet.wasm": "sha256-+NqBIg7FTMeA2q0mxzbehfuE2WPrnq53yqLsu47afbY=",
